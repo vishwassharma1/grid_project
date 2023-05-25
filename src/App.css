@@ -1,0 +1,14 @@
+
+ .grid-container {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  width: 400px;
+  margin: auto;
+}
+
+.grid {
+  height: 50px;
+  border: 1px solid black;
+  cursor: pointer;
+}
+
